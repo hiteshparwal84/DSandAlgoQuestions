@@ -1,4 +1,4 @@
-package linkedlist;
+package DSTopic.linkedlist;
 
 public class SingleLinkedList {
 

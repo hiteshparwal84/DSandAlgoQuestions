@@ -1,13 +1,13 @@
-package string.questions;
+package DSTopic.string;
 
 
 import java.util.HashMap;
 import java.util.Map;
 
 /*
-Given a string s and an array of strings words, return the number of words[i] that is a subsequence of s.
+Given a DSTopic.Arrays.string s and an array of strings words, return the number of words[i] that is a subsequence of s.
 
-A subsequence of a string is a new string generated from the original string with some characters (can be none) deleted without changing the relative order of the remaining characters.
+A subsequence of a DSTopic.Arrays.string is a new DSTopic.Arrays.string generated from the original DSTopic.Arrays.string with some characters (can be none) deleted without changing the relative order of the remaining characters.
 
 For example, "ace" is a subsequence of "abcde".
 

@@ -1,4 +1,4 @@
-package recursion;
+package DSTopic.recursion;
 
 public class power {
 

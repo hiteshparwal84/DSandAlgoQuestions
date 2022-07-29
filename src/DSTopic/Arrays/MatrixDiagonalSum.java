@@ -1,4 +1,4 @@
-package Arrays;
+package DSTopic.Arrays;
 
 public class MatrixDiagonalSum {
     public static void main(String... args) {

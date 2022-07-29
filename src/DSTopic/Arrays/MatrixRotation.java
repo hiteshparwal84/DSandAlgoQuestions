@@ -1,4 +1,4 @@
-package Arrays;
+package DSTopic.Arrays;
 
 import java.util.Arrays;
 import java.util.LinkedList;

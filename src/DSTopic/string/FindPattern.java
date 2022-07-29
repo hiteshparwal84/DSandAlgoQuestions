@@ -1,6 +1,6 @@
-package string.questions;
+package DSTopic.string;
 /*
-Given a list of strings words and a string pattern, return a list of words[i] that match pattern. You may return the answer in any order.
+Given a list of strings words and a DSTopic.Arrays.string pattern, return a list of words[i] that match pattern. You may return the answer in any order.
 Example 1:
 
 Input: words = ["abc","deq","mee","aqq","dkd","ccc"], pattern = "abb"
