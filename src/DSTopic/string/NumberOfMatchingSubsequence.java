@@ -14,7 +14,7 @@ For example, "ace" is a subsequence of "abcde".
 Input: s = "abcde", words = ["a","bb","acd","ace"]
 Output: 3
 Explanation: There are three strings in words that are a subsequence of s: "a", "acd", "ace".
-
+a
 
 "qlhxagxdqh"
 ["qlhxagxdq","qlhxagxdq","lhyiftwtut","yfzwraahab"]
